@@ -1,2 +1,2 @@
 # SURP-Astro
-Summer Undergraduate Research Project @University of Toronto Astronomy .
+Summer Undergraduate Research Project @UniversityofToronto Astronomy .
